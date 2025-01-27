@@ -1,5 +1,3 @@
-Fake News Detection using Machine Learning
-
 This repository provides an implementation of machine learning techniques to detect fake news articles. The goal of this project is to build a reliable and accurate model that distinguishes fake news from real news based on text data.
 
 Overview
